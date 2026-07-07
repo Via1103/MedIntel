@@ -90,7 +90,8 @@ It includes:
 - Hypertension analysis
 - Blood glucose insights
 
-> *(Dashboard screenshot goes here)*
+<img width="1294" height="723" alt="MedIntel_Dashboard" src="https://github.com/user-attachments/assets/53087cfb-3fce-4f27-875c-00820e65bcd8" />
+
 
 ---
 
