@@ -1,4 +1,4 @@
-<img width="1887" height="897" alt="image" src="https://github.com/user-attachments/assets/4ca87e7e-adba-4fed-9937-a80a58bd8d7b" /># 🏥 MedIntel
+🏥 MedIntel
 
 **An AI-powered Healthcare Analytics Platform built using Python, Power BI, Machine Learning, Streamlit, SQLite, and Google Gemini AI.**
 
