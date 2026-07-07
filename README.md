@@ -1,4 +1,8 @@
-🏥 MedIntel
+# 🏥 MedIntel – AI Healthcare Analytics Platform
+
+🔗 **Live Demo:** https://medintel-aeh6mz8bqxd7spcbqwamqm.streamlit.app
+
+💻 **GitHub Repository:** https://github.com/Via1103/MedIntel
 
 **An AI-powered Healthcare Analytics Platform built using Python, Power BI, Machine Learning, Streamlit, SQLite, and Google Gemini AI.**
 
