@@ -1,4 +1,4 @@
-# 🏥 MedIntel
+<img width="1887" height="897" alt="image" src="https://github.com/user-attachments/assets/4ca87e7e-adba-4fed-9937-a80a58bd8d7b" /># 🏥 MedIntel
 
 **An AI-powered Healthcare Analytics Platform built using Python, Power BI, Machine Learning, Streamlit, SQLite, and Google Gemini AI.**
 
@@ -167,7 +167,7 @@ MedIntel/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/MedIntel.git
+git clone https://github.com/Via1103/MedIntel.git
 ```
 
 Install dependencies
@@ -179,7 +179,7 @@ pip install -r requirements.txt
 Run the application
 
 ```bash
-streamlit run app.py
+streamlit run 🏥_MedIntel.py
 ```
 
 ---
